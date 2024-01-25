@@ -171,7 +171,7 @@ class _ForeCastWeatherState extends State<ForeCastWeather> {
                                         padding: const EdgeInsets.all(8.0),
                                         child: Container(
                                           height: 80,
-                                          width: 140,
+                                          width: 160,
                                           decoration: BoxDecoration(
                                               borderRadius:
                                                   BorderRadius.circular(10),
